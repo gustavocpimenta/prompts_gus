@@ -502,6 +502,52 @@ Stay strong, Gus
 
 # EXAMPLES_LINKEDIN_POSTS
 
+
+"" 🌀 𝗣𝗮𝗿𝗲𝗻𝘁𝘀: 𝗕𝗲 𝗶𝗻𝘁𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗯𝗼𝘂𝘁 𝘆𝗼𝘂𝗿 𝗸𝗶𝗱𝘀’ 𝗔𝗜 𝘂𝘀𝗲
+
+Friends keep asking me how they should handle AI with their kids. While I'm not a parenting specialist, I work in AI adoption with diverse audiences, including kids, and there are some basic principles worth sharing.
+
+AI puts shortcuts a tap away, but it also unlocks personalized learning, one of education's biggest challenges. The question isn't whether kids use AI, but whether they use it as a tool that builds skills rather than replaces them. This is a huge opportunity, but only if we're intentional.
+
+Four principles:
+
+→ 𝗦𝗲𝘁 𝗴𝘂𝗮𝗿𝗱𝗿𝗮𝗶𝗹𝘀. Create a family AI policy: when it’s allowed, what must be cited, and what’s off-limits (tests, take-home exams, etc.). Turn on platform parental controls, quiet hours, content filters, and linked accounts.
+
+→ 𝗧𝗲𝗮𝗰𝗵 𝗔𝗜 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀. Show kids how to use AI as a coach, not a ghostwriter. Ask for step-by-step explanations, hints before answers, feedback on drafts, study plans, and quiz questions.
+
+→ 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲 𝘁𝗵𝗲 𝗽𝗮𝘁𝗵. Use AI to adapt reading level and pace, translate or clarify tough passages, generate practice sets, and connect projects to a child’s interests, so effort is focused where it matters most.
+
+→ 𝗣𝗿𝗲𝘀𝗲𝗿𝘃𝗲 𝘁𝗵𝗲𝗶𝗿 𝗵𝘂𝗺𝗮𝗻𝗶𝘁y. Keep tech-free zones and times, encourage hands-on making and handwriting, require face-to-face collaboration and play, and talk through ethical choices together.
+
+𝗧𝗵𝗲 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀𝗻’𝘁 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝗼𝘂𝗿 𝗸𝗶𝗱𝘀 𝘄𝗶𝗹𝗹 𝘂𝘀𝗲 𝗔𝗜, 𝗯𝘂𝘁 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘁𝗵𝗲𝘆’𝗹𝗹 𝘂𝘀𝗲 𝗶𝘁 𝘄𝗲𝗹𝗹.
+
+#ResponsibleAI #AILiteracy #AIinEducation #Parenting #EdTech
+
+## Manel
+
+There’s a lot of talk about AI eating our jobs, about what professions will matter in the future. But in those debates, we often forget about people like Manel.
+
+Manel was my postal guy. Working from home, sometimes I found myself craving social contact; his knock on the door was a welcome interruption.
+He’d shout, “Gustavo, how are you?” and I’d ask back. Then he’d tell me about the sardines he grilled with his family, or something simple but vibrant. It was human, grounding, necessary.
+
+One day, Manel disappeared. The new guy told me he had moved to Ireland. “He’s a master at woodwork, and now people pay fortunes for that,” he told me.
+
+It reminded me that while technology changes the world of work, there’s something enduring about proximity professions, craft, and the human touch.
+Professions built on connection and care will always matter.
+
+AI won’t erase people like Manel. It makes us notice them more.
+
+## 🌀 The one thing that makes AI learning stick
+
+This year I’ve been teaching AI to everyone, from curious kids to highly skilled professionals. The settings may change, but the pattern is clear: learning the foundations is key, but lasting change happens when people apply AI to problems that matter to them.
+
+Leaders must create space for practice, but that's not enough. That practice has to connect with real challenges.
+
+It may sound obvious, but with AI, it's make-or-break. When technology moves this fast, theoretical learning alone won't stick. People need to see AI's impact on their actual work to adopt it, improve it, and evolve alongside it.
+
+Real work fuels real learning. And the learning is in the doing.
+
+
 ## ChatGPT Memory
 
 Most people are using ChatGPT's new memory feature without even realizing it.
